@@ -1,23 +1,27 @@
-# Hey there, I'm Victor! 🚀
+# Hey, I'm Victor! 🚀
 
-## Computer Science Student at the University of Washington, Seattle 🎓
-I'm driven by a passion for crafting impactful software solutions and diving into cutting-edge technologies!
+<h3 align="center">
+ <b>Computer Science Student at the University of Washington, Seattle 🎓</b>
+</h3>
+<h3 align="center">
+ <b> Passionate about creating impactful software and exploring cutting-edge technology! </b>
+</h3>
 
-💻 I’m currently developing [TimeSync](link-to-project)
-🔬 Currently learning AI, JavaScript, and full-stack development (React/Node).
-📁 Check out all my projects on [GitHub](your-github-link)
-📬 Feel free to reach me at [victor.email@example.com](mailto:victor.email@example.com)
-🌵 Fun fact: Growing up in Nevada shaped my resilience and ambition in tech!
+- 💻 I’m currently working on [TimeSync](link-to-project)
+- 🔬 I’m currently learning **AI**, **JavaScript**, and **full-stack development** (React/Node)
+- 📁 Check out all my projects on [GitHub](your-github-link)
+- 📬 Reach out to me at [vkliu@uw.edu](mailto:vkliu@uw.edu)
+- 🌵 Fun fact: I grew up in Nevada, which shaped my ambition and resilience in tech!
 
 ### Let's Connect:
-[![LinkedIn](linkedin_badge_url)](linkedin_url)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vkliu)
 
 ### Languages and Tools:
-![Tools Icons](icons_links)
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,css,figma,firebase,github,gitlab,git,html,java,js,ts,react,nodejs,tailwind,python,linux,nextjs,supabase,selenium,&perline=6)](your-github-link)
 
-### GitHub Stats
-![GitHub Stats](github_stats_url)
-
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=v-kliu)](your-linkedin-url)
+-->
 
 <!--
 **v-kliu/v-kliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
