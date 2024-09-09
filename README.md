@@ -1,15 +1,15 @@
-# Hi, I'm Victor! 👋
+# Hey there, I'm Victor! 🚀
 
 ## Computer Science Student at the University of Washington, Seattle 🎓
-I'm passionate about building impactful software solutions and exploring cutting-edge technologies!
+I'm driven by a passion for crafting impactful software solutions and diving into cutting-edge technologies!
 
-🔭 I’m currently working on [TimeSync](link-to-project)
-🌱 I’m learning about AI, JavaScript, and full-stack development (React/Node).
-👨‍💻 You can find all my projects on [GitHub](your-github-link)
-📫 Reach out at [victor.email@example.com](mailto:victor.email@example.com)
-⚡ Fun fact: I grew up in Nevada, which shaped my drive to make a mark in tech!
+💻 I’m currently developing [TimeSync](link-to-project)
+🔬 Currently learning AI, JavaScript, and full-stack development (React/Node).
+📁 Check out all my projects on [GitHub](your-github-link)
+📬 Feel free to reach me at [victor.email@example.com](mailto:victor.email@example.com)
+🌵 Fun fact: Growing up in Nevada shaped my resilience and ambition in tech!
 
-### Connect with me:
+### Let's Connect:
 [![LinkedIn](linkedin_badge_url)](linkedin_url)
 
 ### Languages and Tools:
