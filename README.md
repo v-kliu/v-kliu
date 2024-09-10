@@ -11,13 +11,28 @@
 - 🔬 I’m currently learning **AI**, **JavaScript**, and **full-stack development** (React/Node)
 - 📁 Check out all my projects on [GitHub](your-github-link)
 - 📬 Reach out to me at [vkliu@uw.edu](mailto:vkliu@uw.edu)
-- 🌵 Fun fact: I grew up in Nevada, which shaped my ambition and resilience in tech!
+- 🌵 Fun fact: I grew up in Nevada, and my fascination with slot machines my parents coded sparked my love for tech! 🎰
 
 ### Let's Connect:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vkliu)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,css,figma,firebase,github,gitlab,git,html,java,js,ts,react,nodejs,tailwind,python,linux,nextjs,supabase,selenium,&perline=6)](your-github-link)
+
+#### Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6)](your-github-link)
+
+#### Frontend:
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=6)](your-github-link)
+
+#### Backend:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,firebase,supabase&perline=6)](your-github-link)
+
+#### DevOps & Tools:
+[![My Skills](https://skillicons.dev/icons?i=aws,github,gitlab,git&perline=6)](your-github-link)
+
+#### Testing:
+[![My Skills](https://skillicons.dev/icons?i=selenium&perline=6)](your-github-link)
+
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=v-kliu)](your-linkedin-url)
