@@ -1,4 +1,4 @@
-# Hey, I'm Victor! 🚀
+# Hey, I'm Victor! 👋
 
 <h3 align="center">
  <b>Computer Science Student at the University of Washington, Seattle 🎓</b>
