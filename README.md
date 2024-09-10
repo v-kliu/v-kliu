@@ -30,7 +30,7 @@
 #### DevOps & Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,github,gitlab,git&perline=6)](your-github-link)
 
-#### Testing:
+#### Automation:
 [![My Skills](https://skillicons.dev/icons?i=selenium&perline=6)](your-github-link)
 
 
