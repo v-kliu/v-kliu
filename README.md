@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 #### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6)](your-github-link)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6)]([your-github-link](https://github.com/v-kliu))
 
 #### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=6)](your-github-link)
