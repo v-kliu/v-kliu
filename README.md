@@ -1,6 +1,6 @@
 # Hey, I'm Victor! 👋
 
-![Banner](/seattle-banner.png)
+![Banner](./seattle_banner.png)
 
 <h3 align="center">
  <b>Computer Science Student at the University of Washington, Seattle 🎓</b>
