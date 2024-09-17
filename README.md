@@ -1,5 +1,7 @@
 # Hey, I'm Victor! 👋
 
+![Banner](/images/seattle-banner.png)
+
 <h3 align="center">
  <b>Computer Science Student at the University of Washington, Seattle 🎓</b>
 </h3>
@@ -7,31 +9,30 @@
  <b> Passionate about creating impactful software and exploring cutting-edge technology! </b>
 </h3>
 
-- 💻 I’m currently working on [TimeSync](link-to-project)
-- 🔬 I’m currently learning **AI**, **JavaScript**, and **full-stack development** (React/Node)
-- 📁 Check out all my projects on [GitHub](your-github-link)
-- 📬 Reach out to me at [vkliu@uw.edu](mailto:vkliu@uw.edu)
-- 🌵 Fun fact: I grew up in Nevada, and my fascination with slot machines my parents coded sparked my love for tech! 🎰
-
-### Let's Connect:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vkliu)
+- 💻 I’m currently working on **TimeSync** and **EduResume**
+- 🔬 I’m currently learning **AI** and **full-stack development** (React/Node)
+- 📁 Check out all my Hackathon projects on [DevPost]([your-devpost-link](https://devpost.com/vkliu?))
+- 🎰 Fun fact: I grew up in Nevada, and my fascination with slot machines my parents coded sparked my love for tech!
+- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/vkliu)
 
 ### Languages and Tools:
 
 #### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6)]([your-github-link](https://github.com/v-kliu))
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6)](https://github.com/v-kliu)
 
 #### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=6)](your-github-link)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma,svg&perline=6)](https://github.com/v-kliu)
 
 #### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,firebase,supabase&perline=6)](your-github-link)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dynamodb,firebase&perline=6)](https://github.com/v-kliu)
 
 #### DevOps & Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,github,gitlab,git&perline=6)](your-github-link)
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel,git,github,gitlab,vscode,windows,powershell,pycharm,anaconda,notion,npm&perline=6)](https://github.com/v-kliu)
 
-#### Automation:
-[![My Skills](https://skillicons.dev/icons?i=selenium&perline=6)](your-github-link)
+#### Additional Tools:
+[![My Skills](https://skillicons.dev/icons?i=unity&perline=6)](https://github.com/v-kliu)
+
+
 
 
 <!--
