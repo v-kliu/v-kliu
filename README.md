@@ -8,7 +8,7 @@
 <h3 align="center">
  <b> Passionate about creating impactful software and exploring cutting-edge technology! </b>
 </h3> 
-  
+   
 - 💻 I’m currently interning at **Amazon** and building **Soarin**   
 - 🔬 I’m currently learning **AI** and **full-stack development** (React/Node) 
 - 📁 Check out all my Hackathon projects on [DevPost]([your-devpost-link](https://devpost.com/vkliu?))
