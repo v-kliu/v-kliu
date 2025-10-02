@@ -12,7 +12,7 @@
 - 💻 I’m currently interning at **Amazon** and building **Soarin**   
 - 🔬 I’m currently learning **AI** and **full-stack development** (React/Node) 
 - 📁 Check out all my Hackathon projects on [DevPost]([your-devpost-link](https://devpost.com/vkliu?))
-- 🎰 Fun fact: I grew up in Nevada, and my fascination with slot machines my parents coded sparked my love for tech!
+- 🎰 Fun fact: I grew up in Nevada, and my fascination with slot machines my parents coded sparked my love for tech!  
 - 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/vkliu) 
 
 ### Languages and Tools:
