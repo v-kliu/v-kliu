@@ -4,7 +4,7 @@
 
 <h3 align="center">
  <b>Computer Science Student at the University of Washington, Seattle 🎓</b>
-</h3>  
+</h3>   
 <h3 align="center">
  <b> Passionate about creating impactful software and exploring cutting-edge technology! </b>
 </h3> 
