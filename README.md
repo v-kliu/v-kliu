@@ -1,6 +1,6 @@
 hi, i'm victor.
 
-cs grad from the university of washington.  
+cs + business grad from the university of washington.  
 previously swe at aws iam.  
 incoming swe at google security.
 
