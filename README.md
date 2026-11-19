@@ -10,8 +10,7 @@ grew up in nevada, where my parents wrote code for slot machines.
 watching that is what got me into software lol.
 
 outside of work i try to build things on the side, mostly full-stack and ai.  
-a lot of which started at hackathons.
 
 &nbsp;
 
-[linkedin](https://www.linkedin.com/in/vkliu) · [devpost](https://devpost.com/vkliu)
+[linkedin](https://www.linkedin.com/in/vkliu)
