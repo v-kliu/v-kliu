@@ -14,3 +14,7 @@ outside of work i try to build things on the side, mostly full-stack and ai.
 &nbsp;
 
 [linkedin](https://www.linkedin.com/in/vkliu)
+
+&nbsp;
+
+<img src="./dino.svg" alt="a pixel dinosaur running and jumping over cacti" width="420">
