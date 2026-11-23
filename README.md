@@ -17,4 +17,4 @@ outside of work i try to build things on the side, mostly full-stack and ai.
 
 &nbsp;
 
-<img src="./dino.svg" alt="a pixel dinosaur running and jumping over cacti" width="100%">
+<img src="./dino.svg" alt="a pixel dinosaur running and jumping over cacti" width="420">
