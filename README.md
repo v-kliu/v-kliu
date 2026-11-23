@@ -1,6 +1,6 @@
  hello, i'm victor! 
 
-cs + business grad from the university of washington.  
+cs + business grad from the university of washington
 current swe at aws iam.  
 incoming swe at google.
 
