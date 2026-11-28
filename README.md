@@ -1,8 +1,7 @@
  hello, i'm victor! 
 
 cs + business grad from the university of washington
-current swe at aws iam.  
-incoming swe at google.
+incoming swe at google, prev at aws iam
 
 &nbsp;
 
